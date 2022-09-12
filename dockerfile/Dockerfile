@@ -1,4 +1,4 @@
-FROM cmeiklejohn/ml
+FROM eduardofeo/17313ml
 
 ARG VERSION
 RUN pip install --upgrade pip \
